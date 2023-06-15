@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b39491f1.css",
+    "main.js": "/static/js/main.008b6744.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/miasta.png": "/static/media/miasta.877ecb8e1968d72799ee.png",
+    "static/media/schro.jpg": "/static/media/schro.8572419b0c513684a662.jpg",
+    "static/media/r.png": "/static/media/r.ee5aafc385360eb84fa0.png",
+    "static/media/weight.png": "/static/media/weight.07c3d6a5b7d5638116d8.png",
+    "index.html": "/index.html",
+    "main.b39491f1.css.map": "/static/css/main.b39491f1.css.map",
+    "main.008b6744.js.map": "/static/js/main.008b6744.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39491f1.css",
+    "static/js/main.008b6744.js"
+  ]
+}
